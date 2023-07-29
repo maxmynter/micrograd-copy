@@ -1,1 +1,1 @@
-This is an implementation of an autograd engine for neural network training. Heavily inspired by https://github.com/karpathy/micrograd/. I implemented this to learn :)
+This is an implementation of the micrograd autograd engine for neural network training. Inspiration and guidance taken from https://github.com/karpathy/micrograd/. I implemented this to learn :)
